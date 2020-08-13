@@ -1,0 +1,32 @@
+Project :
+    Name    : Image 63 Single Photo Resection
+    Camera  : Wild RC-30
+    FocLen  : 154.006
+    ScanRes : 15
+    
+EOP :
+    Photo_62:
+        XYZ:    3708.7771   2100.7767   2258.6154
+        OPK:    2.210584    -0.344599   -2.232912
+    Photo_63:
+        XYZ:    4908.1354   2089.6901   2257.3852
+        OPK:    2.414401    -0.232509   -1.783954
+
+
+Image:
+    Photo_62 :
+        house1 : 53.714 -43.322
+        house2 : 55.230 -43.337
+        house3 : 55.290 -45.078
+        house4 : 53.789 -45.048
+        House5 : 55.605 -44.102
+    Photo_63 :
+        house1 : -39.386 -46.532
+        house2 : -37.869 -46.562
+        house3 : -37.929 -48.304
+        house4 : -39.461 -48.259
+        House5 : -37.299 -47.313
+
+
+       
+        
